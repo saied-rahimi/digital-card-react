@@ -1,0 +1,15 @@
+.footer {
+    background-color: #0a0a0a;
+    height: 70px;
+    align-items: center;
+    display: flex;
+    margin: top 50px; ;
+
+
+}
+
+.icons {
+    color: gray;
+    align-items: center;
+    margin: auto;
+}

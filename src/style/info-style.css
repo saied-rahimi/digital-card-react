@@ -1,0 +1,36 @@
+.profile-img {
+    width: 500px;
+    border-radius: 10px 10px 0px 0px;
+
+}
+
+.name {
+    color: #ffffff;
+}
+.position {
+    color: #ffffff;
+}
+.email {
+    color: #a8a8a8;
+    font-size: 10;
+}
+.buttons {
+    margin: 10px;
+    display: flex;
+}
+.email-button, .linkedin-button {
+    width: 150px;
+    margin: 10px 25px;
+    color: #ffffff;
+    border-radius: 5px;
+    border: transparent;
+
+}
+.email-button {
+    margin-right: auto;
+    background-color: #969696;
+}
+
+.linkedin-button {
+    background-color: #08457e;
+}

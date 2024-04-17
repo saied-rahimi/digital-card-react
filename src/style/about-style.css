@@ -1,0 +1,13 @@
+.about {
+    color: white;
+    text-align: start;
+    margin: 15px;
+}
+.about > h1 {
+    margin-bottom: 0;
+}
+.about > p{
+    text-align: justify;
+    margin-top: 5px ;
+    line-height: 20px;
+}

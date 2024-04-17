@@ -1,0 +1,12 @@
+.main-div {
+    
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+    color: #000;
+    /* height: 900px; */
+    width: 500px;
+    margin:  10%;
+    border-radius: 10px;
+}

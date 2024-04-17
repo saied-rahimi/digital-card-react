@@ -1,0 +1,13 @@
+.interests {
+    color: white;
+    text-align: start;
+    margin: 15px;
+}
+.interests > h1 {
+    margin-bottom: 0;
+}
+.interests > p{
+    text-align: justify;
+    margin-top: 5px ;
+    line-height: 20px;
+}
